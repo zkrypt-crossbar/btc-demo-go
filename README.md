@@ -46,7 +46,7 @@ To integrate with MPC, we need to replace the signature with the MPC signature.
 2. **Run the application**:
 
    ```bash
-   go run main.go
+   go run main.go helper.go
    ```
 
 3. The application will create a transaction and send it to the Testnet. You will see logs indicating the transaction details.
